@@ -1,17 +1,3 @@
-# portfolioterm3
+#Calculator
 
-This is for Python Term 3
-
-Includes:
-
-Blackjack
-
-Calculator
-
-Chutes and Ladders
-
-Music Player
-
-Trivia
-
-War
+This is a simple calculator made into a GUI capable of doing addition, subtraction, multiplication, division with two numbers.
