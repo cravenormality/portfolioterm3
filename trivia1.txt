@@ -1,0 +1,81 @@
+Jessica Weinburger Final term 2
+Indexing
+sports = "Basketball"/print(sports[3])/This will result in which of the following outputs:
+1.B
+2.s
+3.k
+4.t
+3
+s will be the output of index 3 as the first letter is 0 and you count up from there. 
+Index Slicing
+sports = "figure skating" / print(sports[7:]) / What is the output of this code?
+1.skating
+2.fig
+3.skat
+4.ing
+1
+skating will be the output, because indexing starts at 0. 
+List
+something = [ "basketball", "figure skating", "baseball", "softball" ] / print(something) / what is the output?
+1.['basketball', 'figure skating', 'baseball', 'softball']
+2.basketball, figure skating, baseball, softball
+3.softball, baseball, figure skating, basketball
+4.figure skating, basketball, baseball, softball
+1
+When printing a list the brackets still exist and so do the '. 
+Appending
+cur_values = [.25, .05, .01] / What is the correct way to append and print out this list?
+1.cur_value.append() / print (cur_values)
+2.cur_values.append(1) / print(cur_values)
+3.cur_names.append(1) / print(cur_values)
+4.cur_names.append() / print(cur_values)
+2
+2 is the correct method of append as the rest of them would result in a name error.
+For in 
+cities = ["Chicago", "New York", "San Fransisco"] / for city in cities: / print(city). What is the output?
+1.Chicago / New York / San Fransisco
+2.San Fransisco
+3.New York
+4.San Fransisco / New York / Chicago
+1
+Because the other 2 didn't cycle through the list and the last one printed backwards
+Syntax Errors
+Which one of these is a syntax error?
+1.wrong output
+2.indent
+3.misspellings
+4.can't find file
+3
+Misspellings are syntax errors because the compiler doesn't recognize it in the standard library
+Reading Files
+Which mode is to read and write?
+1.r
+2.r+
+3.w
+4.a
+2
+r+ reads and writes to the file. 
+length
+riddle = "What do you call two witches who live together? / print(len(riddle)) / what is the output of this?
+1.47
+2.25
+3.50
+4.46
+1
+There 47 characters in this riddle. 
+Range
+for i in range(4): / print(hello) / What is the output of this code?
+1.hello / hello / hello / hello
+2.hello / hello/ hello
+3.hello, hello, hello, hello
+4.hello, hello, hello,
+1
+This outputs the hello four times and it prints it on individual lines
+.split()
+what does .split() do?
+1. it splits by commas
+2. it splits by spaces
+3. it splits by enter
+4. it splits by quotes
+2
+As there is nothing within the .split() it will seperate by space
